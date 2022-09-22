@@ -5,7 +5,11 @@
     <file url="file://$PROJECT_DIR$/ApiGateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotAppApiUser/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotAppApiUser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhotoAppApiAlbums-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhotoAppApiAlbums-master/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotoAppEurekaDiscoveryService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotoAppEurekaDiscoveryService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/photoAppAccountManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/photoAppAccountManagement/src/main/resources" charset="UTF-8" />
   </component>
 </project>

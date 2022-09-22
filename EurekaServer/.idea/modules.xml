@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/EurekaServer.iml" filepath="$PROJECT_DIR$/.idea/EurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotAppApiUser/PhotAppApiUser.iml" filepath="$PROJECT_DIR$/PhotAppApiUser/PhotAppApiUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoAppEurekaDiscoveryService/PhotoAppDiscoveryService.iml" filepath="$PROJECT_DIR$/PhotoAppEurekaDiscoveryService/PhotoAppDiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoAppAccountManagement/photoAppAccountManagement.iml" filepath="$PROJECT_DIR$/photoAppAccountManagement/photoAppAccountManagement.iml" />
     </modules>
   </component>
 </project>

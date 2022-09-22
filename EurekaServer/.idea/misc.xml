@@ -6,10 +6,12 @@
         <option value="$PROJECT_DIR$/PhotAppApiUser/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppEurekaDiscoveryService/pom.xml" />
         <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/photoAppAccountManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/PhotoAppApiAlbums-master/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>

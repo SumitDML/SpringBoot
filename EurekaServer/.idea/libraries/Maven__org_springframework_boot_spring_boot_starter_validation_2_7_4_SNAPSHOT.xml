@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-validation:2.7.4-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220915.090620-34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220920.020236-40.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220915.090620-34-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220920.020236-40-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220915.090620-34-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.7.4-SNAPSHOT/spring-boot-starter-validation-2.7.4-20220920.020236-40-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

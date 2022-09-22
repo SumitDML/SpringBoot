@@ -1,4 +1,4 @@
-package com.photoApp.api.account.ui.controller;
+package photoAppAccountManagement.src.main.java.com.photoApp.api.account.ui.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

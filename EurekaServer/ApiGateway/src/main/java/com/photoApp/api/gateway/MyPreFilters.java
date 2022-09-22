@@ -4,6 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.cloud.gateway.filter.GlobalFilter;
+import org.springframework.core.Ordered;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;
 import org.springframework.web.server.ServerWebExchange;
@@ -14,12 +15,12 @@ import java.util.function.Consumer;
 
 
 @Component
-public class MyPreFilters  implements GlobalFilter {
+public class MyPreFilters  implements GlobalFilter , Ordered {
     final Logger logger = LoggerFactory.getLogger(MyPreFilters.class);
     @Override
     public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain){
 
-        logger.info("My first Pre-filter is Executed....");
+        logger.info("Pre-filter is Executed....");
 
         String requestPath = exchange.getRequest().getPath().toString();
         logger.info("Request path= "+ requestPath);
@@ -38,5 +39,10 @@ public class MyPreFilters  implements GlobalFilter {
 
 
         return chain.filter(exchange);
+    }
+
+    @Override
+    public int getOrder() {
+        return 0;
     }
 }

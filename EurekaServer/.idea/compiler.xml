@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="photoAppAccountManagement" />
         <module name="PhotAppApiUser" />
         <module name="PhotoAppDiscoveryService" />
         <module name="ApiGateway" />
@@ -14,6 +15,8 @@
     <bytecodeTargetLevel>
       <module name="ApiGateway" target="1.8" />
       <module name="PhotAppApiUser" target="1.8" />
+      <module name="photoAppAccountManagement" target="1.8" />
+      <module name="PhotoAppApiAlbums" target="1.8" />
       <module name="PhotoAppDiscoveryService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,7 +24,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ApiGateway" options="-parameters" />
       <module name="PhotAppApiUser" options="-parameters" />
+      <module name="PhotoAppApiAlbums" options="-parameters" />
       <module name="PhotoAppDiscoveryService" options="-parameters" />
+      <module name="photoAppAccountManagement" options="-parameters" />
     </option>
   </component>
 </project>
